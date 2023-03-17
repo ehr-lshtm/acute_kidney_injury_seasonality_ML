@@ -30,6 +30,7 @@ paths/*
 
 # Example code in package build process
 *-Ex.R
+R/00_filepath.R
 
 # Output files from R CMD build
 /*.tar.gz
