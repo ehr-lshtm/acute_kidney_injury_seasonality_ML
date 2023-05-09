@@ -3,7 +3,7 @@ This is the project code for the paper 'Seasonality of acute kidney injury pheno
 
 # Untracked files
 
-This repository contains only non-disclosive files, that is, code without file paths, and summary statistics. This template is set up so only files that are safe to upload to Github, such as code, are uploaded by default.
+This repository contains only non-disclosive files, that is, code without file paths, and summary statistics. This template is set up so only files that are safe to upload to Github, such as code, are uploaded by default. The underlying data used for this study was from the Clinical Practice Research Datalink, which includes UK Primary Care Data, and linked data such as Hospital Episode Statistics. Access to this data is subject to protocol approval via CPRD’s Research Data Governance (RDG) Process. Given the sensitive nature of these data, this is not uploaded to the repository. Access to data is available on request to the Clinical Practice Research Datalink (https://cprd.com/how-access-cprd-data).
 
 # File tree
 
