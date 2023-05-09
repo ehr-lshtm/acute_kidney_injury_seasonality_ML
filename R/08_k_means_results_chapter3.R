@@ -1,4 +1,4 @@
-# calculate percentage of characharacteristics of each cluster chapter 3
+# calculate percentage of characteristics of each cluster chapter 3
 
 table_chapter_read3_percentage <- aki_cohort_chapter3 %>%
   select(cluster, everything(), -patid) %>%
@@ -41,7 +41,7 @@ chapter_read3_percentage_overall <- aki_cohort_chapter3 %>%
   count(chapter_read3, desc_chapter3, total) %>%
   mutate(freq = round((n/total)*100, 0)) 
 
-# calculate percentage of characharacteristics of each cluster chapter 3
+# calculate percentage of characteristics of each cluster chapter 2
 
 table_chapter_read2_percentage <- aki_cohort_chapter2 %>%
   select(cluster, everything(), -patid) %>%

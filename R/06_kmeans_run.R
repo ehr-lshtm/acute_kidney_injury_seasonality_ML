@@ -2,9 +2,9 @@
 
 # Run muliple correspodence analysis
 
-# cprd_aki_clinical <- cprd_aki_clinical_any_2015
-# 
-# source("05_mca.R")
+cprd_aki_clinical <- cprd_aki_clinical_any_2015
+
+source("05_mca.R")
 
 cprd_aki_clinical <- cprd_aki_clinical_any_2015
 g_hes_aki_spell <- g_hes_aki_spell_any_2015
